@@ -1,7 +1,7 @@
 ## Hey, Folks! I'm Kathe. 💻🎮🌟 <img align="right" alt="Kathe-pic" height="95" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/ab/ce/e4abcef1d3f9f39dfbaad1838e0f3f07.gif">
 
 - 📚 Eu sou graduanda em Eng. De Computação na UFPel.
-- 🔬 Sou bolsista de iniciação científica e membro do PET COMPUTAÇÃO.
+- 🔬 Faço iniciação científica e sou membro do PET COMPUTAÇÃO.
 - 👩‍💻 Estudo linguagens de programação como Csharp e Python.
 - eleLayout e circuitos integrados
 - ⭐ Entusiasta em jogos 3D, Blender, Unity e Unreal.
