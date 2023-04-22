@@ -2,8 +2,8 @@
 
 - 📚 Eu sou graduanda em Eng. De Computação na UFPel.
 - 🔬 Faço iniciação científica e sou membro do PET COMPUTAÇÃO.
+- 💡  Tema da minha pesquisa: Layout e circuitos integrados.
 - 👩‍💻 Estudo linguagens de programação como Csharp e Python.
-- eleLayout e circuitos integrados
 - ⭐ Entusiasta em jogos 3D, Blender, Unity e Unreal.
 - 😄 Pronomes: she/her | ela/dela
 - 📫 Contate-me em: kathe.isabelle@inf.ufpel.edu.br
