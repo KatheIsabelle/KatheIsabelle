@@ -29,5 +29,5 @@
   
 </div>
 
-![Snake animation]( http://github.com/KatheIsabelle/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake.svg)
 
