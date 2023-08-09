@@ -2,7 +2,7 @@
 
 - 📚 Eu sou graduanda em Eng. De Computação na UFPel.
 - 🔬 Faço iniciação científica e sou membro do PET COMPUTAÇÃO.
-- 💡  Tema da minha pesquisa: Layout e circuitos integrados.
+- 💡  Tema da minha pesquisa: Gamificação disciplina de Concepção de Circuitos Integrados
 - 👩‍💻 Estudo linguagens de programação como Csharp e Python.
 - ⭐ Entusiasta em jogos 3D, Blender, Unity e Unreal.
 - 😄 Pronomes: she/her | ela/dela
