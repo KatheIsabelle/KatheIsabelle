@@ -8,7 +8,8 @@
 - 😄 Pronomes: she/her | ela/dela
 - 📫 Contate-me em: kathe.isabelle@inf.ufpel.edu.br
 
-
+![Kathe's GitHub stats](https://github-README-stats.vercel.app/api?username=KatheIsabelle&show_icons=true&theme=merko)
+![Top Langs](https://github-README-stats.vercel.app/api/top-langs/?username=KatheIsabelle&layout=compact)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kathe-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
