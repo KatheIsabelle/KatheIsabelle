@@ -33,5 +33,7 @@
 [![Generate Snake](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml)
 
 
+![snake gif](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake.svg)
+
 
 
