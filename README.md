@@ -8,7 +8,6 @@
 - 😄 Pronomes: she/her | ela/dela
 - 📫 Contate-me em: kathe.isabelle@inf.ufpel.edu.br
 
-![Kathe's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatheIsabelle&show_icons=true&theme=merko)
 
   
 <div style="display: inline_block"><br>
