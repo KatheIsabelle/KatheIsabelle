@@ -22,9 +22,8 @@
   <img align="center" alt="Kathe-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kathe-Csharp" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kathe-Blender" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-  <img align="right" alt="Kathe-pic" height="95" style="border-radius:50px;" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
-  <img align="right" alt="Kathe-pic" height="85" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif">
+  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"> 
+  <img align="right" alt="Kathe-pic" height="65" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif">
   
 </div>
   
@@ -38,8 +37,9 @@
 
 </div>
 
+##
 
 [![Generate Snake](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml)
 
 
-![snake gif](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake2.svg)
