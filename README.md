@@ -38,8 +38,6 @@
 </div>
 
 ##
+![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake.svg)
 
-[![Generate Snake](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/PETCompUFPel/PETCompUFPel/actions/workflows/main.yml)
-
-
-![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake2.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/KatheIsabelle/KatheIsabelle/output/github-contribution-grid-snake.svg" />
