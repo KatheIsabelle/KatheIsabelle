@@ -38,6 +38,5 @@
 </div>
 
 ##
-![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/KatheIsabelle/KatheIsabelle/output/github-contribution-grid-snake.svg" />
