@@ -27,7 +27,13 @@
   <img align="center" alt="Kathe-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kathe-Csharp" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kathe-Blender" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"> 
+  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+
+
+          
+          
   <img align="right" alt="Kathe-pic" height="65" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif">
   
 </div>
