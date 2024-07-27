@@ -21,7 +21,6 @@
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KatheIsabelle&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=false)](https://github.com/KatheIsabelle/github-readme-stats)
 <br>
 
-
 ##
   
 <div style="display: inline_block"><br>
