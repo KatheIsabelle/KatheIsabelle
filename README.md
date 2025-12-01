@@ -1,63 +1,65 @@
-## Hey, Folks! I'm Kathe. 💻🎮🌟
+# 🎮💻 Hey, Folks! I'm Kathe!  
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3piNjR3amQxN3g5N3drYmJpcG92YThnaTQzdjV1d3hhZ3pvMzFnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="justify">
 
-- 📚 Eu sou graduanda em Eng. De Computação na UFPel;
-
-- 😄 Pronomes: she/her | ela/dela
-
-- 🔬 Faço iniciação científica e sou ex-membro do PET COMPUTAÇÃO;
-- 💡 Tema de pesquisa: Gamificação disciplina de Concepção de Circuitos Integrados;
-- 👩‍💻 Estudo linguagens de programação como Csharp e Python;
-- ⭐ Entusiasta em jogos 3D, Blender, Unity e Unreal;
-
-
-##
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KatheIsabelle&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KatheIsabelle&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-
-
-##
+**PT**:
+- 🎓 **Graduanda em Engenharia de Computação** pela **UFPel** (2020–2025)  
+- 🎓 **Mestranda em Computação / PPGC–UFPel (2025–)**, membro do **LUPS**  
+- 🔬 **Pesquisadora** em IHC, Educação Digital, Gamificação e Jogos Educacionais  
+- 🧪 Ex-bolsista de Iniciação Científica (CNPq) com foco em **redes de transistores** e ensino de circuitos digitais  
+- 🎮 Criadora do jogo educacional **Odisseia 2D**, publicado no **SBIE (Qualis A3)**  
+- 💻 Programo em **C#, Python, JavaScript**.
+- 🌟 Entusiasta de **Unity (2D/3D)**, design de jogos, UX, Blender e arte digital  
+- 🏅 Premiações: *Academic Merit Award – CREA/RS* e *Melhor Apresentação CIC/CEG–UFPel*  
   
+</p>
+
+**EN**: 
+<p align="justify">
+
+- 🎓 **B.Sc. in Computer Engineering** at **UFPel** (2020–2025)  
+- 🎓 **M.Sc. in Computing (in progress)** at **PPGC–UFPel**, member of **LUPS Laboratory**    
+- 🔬 **Researcher** in HCI, Digital Education, Gamification, and Educational Games  
+- 🧪 Former CNPq Research Scholar working on **transistor networks** and digital circuit learning  
+- 🎮 Creator of the educational game **Odisseia 2D**, published at **SBIE (Qualis A3)**  
+- 💻 Programming with **C#, Python, JavaScript**.
+- 🌟 Passionate about **Unity (2D/3D)**, game design, UX, Blender, and digital art  
+- 🏅 Awards: *Academic Merit Award – CREA/RS*, *Best Presentation CIC/CEG–UFPel*  
+  
+</p>
+
+
+---
+
+## 🛠️ Tech Stack  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kathe-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kathe-Csharp" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kathe-Blender" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
   <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Kathe-Unity" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Kathe-Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Kathe-Photoshop" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 
-
-          
-          
   <img align="right" alt="Kathe-pic" height="65" style="border-radius:50px;" src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif">
-  
 </div>
-  
-  ##
-<h3 align="left">Connect with me</h3>
+
+---
+
+## 🌐 Connect with me  
+
 <div> 
-  <a href="https://www.instagram.com/katheisab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kathe.isabelle@inf.ufpel.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kathe-isabelle-6a70a3194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://katheisabelle.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.instagram.com/katheisab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:kathe.isabelle@inf.ufpel.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kathe-isabelle-6a70a3194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://katheisabelle.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a> 
 </div>
 
-##
+---
 
 ![snake animation](https://github.com/KatheIsabelle/KatheIsabelle/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
 
 
 
