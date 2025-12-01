@@ -12,7 +12,7 @@
 - 🎮 Criadora do jogo educacional **Odisseia 2D**, publicado no **SBIE (Qualis A3)**  
 - 💻 Programo em **C#, Python, JavaScript**.
 - 🌟 Entusiasta de **Unity (2D/3D)**, design de jogos, UX, Blender e arte digital  
-- 🏅 Premiações: *Academic Merit Award – CREA/RS* e *Melhor Apresentação CIC/CEG–UFPel*  
+- 🏅 Premiações: *Merito Acadêmico – CREA/RS* e *Melhor Apresentação CIC/CEG–UFPel*  
   
 </p>
 
